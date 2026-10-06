@@ -1,16 +1,36 @@
-# React + Vite
+# SharePal Gaming Gadgets Clone 🎮
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React + Vite frontend clone of SharePal's Gaming Gadgets rental experience.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://sharepal-clone-nine.vercel.app/
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Gaming gadget product listing
+- Search and category filtering
+- Product details modal
+- Delivery and pickup date selection
+- Rental duration and price calculation
+- Favorites and shopping cart
+- Responsive design
+- Dynamic product data from JSON
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React • Vite • JavaScript • HTML5 • CSS3 • JSON
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/priyankajonnalagadda/sharepal-clone.git
+cd sharepal-clone
+npm install
+npm run dev
+📦 Production Build
+npm run build
+
+👩‍💻 Author
+Priyanka Jonnalagadda
+GitHub: https://github.com/priyankajonnalagadda
